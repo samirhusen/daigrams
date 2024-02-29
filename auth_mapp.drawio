@@ -1,9 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T07:21:29.236Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="OyLvO4jsj5OFXKeraQK1" version="23.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T07:29:27.104Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="vSjcN32JPhBeaxLINt9Q" version="23.1.8" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
     <mxGraphModel dx="2619" dy="2127" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rMVDz-vUEz1KjyfKddpo-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" target="rMVDz-vUEz1KjyfKddpo-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="397" y="410" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="397" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rMVDz-vUEz1KjyfKddpo-158" value="&lt;font style=&quot;font-size: 15px; background-color: rgb(92, 255, 103);&quot;&gt;&lt;b&gt;&amp;nbsp; STORE CACHE&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBorderColor=default;" vertex="1" connectable="0" parent="rMVDz-vUEz1KjyfKddpo-157">
+          <mxGeometry x="0.1348" y="-2" relative="1" as="geometry">
+            <mxPoint x="97" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rMVDz-vUEz1KjyfKddpo-98" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="339.46" y="302.5" width="115.75" height="111.12" as="geometry" />
         </mxCell>
